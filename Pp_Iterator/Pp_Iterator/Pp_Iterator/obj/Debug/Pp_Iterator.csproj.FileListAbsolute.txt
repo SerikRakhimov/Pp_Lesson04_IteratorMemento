@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\bin\Debug\Pp_Iterator.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\bin\Debug\Pp_Iterator.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\bin\Debug\Pp_Iterator.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\obj\Debug\Pp_Iterator.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\obj\Debug\Pp_Iterator.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\obj\Debug\Pp_Iterator.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Iterator\Pp_Iterator\Pp_Iterator\obj\Debug\Pp_Iterator.pdb

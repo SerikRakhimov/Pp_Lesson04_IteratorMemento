@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\bin\Debug\Pp_Memento.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\bin\Debug\Pp_Memento.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\bin\Debug\Pp_Memento.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\obj\Debug\Pp_Memento.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\obj\Debug\Pp_Memento.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\obj\Debug\Pp_Memento.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Memento\Pp_Memento\Pp_Memento\obj\Debug\Pp_Memento.csprojResolveAssemblyReference.cache
